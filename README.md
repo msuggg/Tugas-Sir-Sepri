@@ -1,6 +1,6 @@
 # Konverter Panjang & Berat
 
-A simple but useful unit converter app made with Python and Tkinter.
+A simple but useful unit converter app made with Python and Tkinter. (https://github.com/msuggg/Tugas-Sir-Sepri.git)
 
 Convert between different metric units for **length** and **mass** using an intuitive graphical interface.
 
